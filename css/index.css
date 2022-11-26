@@ -1,0 +1,47 @@
+body{
+    background-image: url(../img/Vincent\ van\ Gogh\ -\ Starry\ Night\ -\ \(MeisterDrucke-11281\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    overflow: hidden;
+}
+.big_block{
+    background-color: black;
+    opacity: 0.9;
+}
+.block{
+    
+    width:1500px;
+    height:1500px;
+    background-position: center;
+  
+}  
+img{
+    border-radius: inherit;
+    border-radius: 50%;
+    width:150px;
+}
+.img{
+    text-align: center;
+   padding-top: 250px; 
+}
+.h1{
+    text-align: center;
+    color:white;
+    font-size: large;
+    font-weight: 300;
+}
+p{
+    text-align: center;
+    color: white;
+}
+.but{
+    text-align: center;
+}
+button{
+    border-radius: 35%;
+    width: 75px;
+    height: 50px;
+    color:cadetblue;
+    font-weight: bold;
+}
